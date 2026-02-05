@@ -18,5 +18,5 @@ From Logistics to QA: A Portfolio of Thinking &amp; Testing
 
 ## 📫 Связь со мной
 
-*   **Telegram:** [@loknie]
+*   **Telegram:** @loknie
 *   **Email:** ershova.va@outlook.com
